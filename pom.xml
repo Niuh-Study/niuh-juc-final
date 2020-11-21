@@ -38,6 +38,8 @@
 
     <modules>
         <module>jmm-specification</module>
+        <module>thread-syncronized</module>
+        <module>thread-concurrent</module>
     </modules>
 
 
